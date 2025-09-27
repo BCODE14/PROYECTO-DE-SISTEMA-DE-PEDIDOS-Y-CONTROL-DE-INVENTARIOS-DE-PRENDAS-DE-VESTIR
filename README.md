@@ -8,7 +8,7 @@ Desarrollo de un sistema de pedidos para prendas de vestir y control de inventar
 ## Autor
 - **Nombre del Autor:** Jackelin marca
 - **Correo Electrónico:** jmarca991@gmail.com
-- **GitHub:** https://github.com/BCODE14/web-tablero
+- **GitHub:** https://github.com/BCODE14
 
 ## Licencia
 Este proyecto está bajo la Licencia propietario.
